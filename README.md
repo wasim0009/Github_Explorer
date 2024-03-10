@@ -25,4 +25,4 @@ Your contributions to improve the GitHub-Profile-Explorer are welcome. To contri
   <li>Use the Pull Request section on GitHub to submit your changes for review and merging.</li>
 </ul>
 
-**Copyright (c) 2024 Mohammad Hossein Anbarlou (Mehrab Anbarlou)**
+**Copyright (c) 2024 Wasim Khan**
